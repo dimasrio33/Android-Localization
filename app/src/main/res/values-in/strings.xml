@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="form_text">Silakan Isi Form berikut</string>
+    <string name="form_name">Nama Lengkap</string>
+    <string name="form_email">Alamat Email</string>
+    <string name="form_phone">Nomor Telepon</string>
+    <string name="form_password">Password</string>
+    <string name="form_check">Saya sudah setuju</string>
+
+    <string name="btn_go">Simpan</string>
+    <string name="btn_lang">bahasa</string>
+
+
+</resources>
